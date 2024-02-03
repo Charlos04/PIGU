@@ -18,7 +18,7 @@ public class Buscaminas extends JFrame {
     
     public Buscaminas(){
         setLayout(new BorderLayout());
-        setSize(1080, 720); //Establece el tamaño de la ventas  LARGO x ANCHO
+        setSize(1080, 720); //Establece el tamaño de la ventana  LARGO x ANCHO
         setLocationRelativeTo(null); //Establece la ubicacion inicial de la ventana en medio de la pantalla
         setTitle("Buscaminas");  // Establece el titulo de la ventana
         setDefaultCloseOperation(EXIT_ON_CLOSE); //Cierra la ventana al oprimir X
